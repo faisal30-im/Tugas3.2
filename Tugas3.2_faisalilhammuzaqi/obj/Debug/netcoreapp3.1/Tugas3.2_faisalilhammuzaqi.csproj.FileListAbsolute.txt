@@ -1,0 +1,15 @@
+D:\Tugas3.2_faisalilhammuzaqi\Tugas3.2_faisalilhammuzaqi\bin\Debug\netcoreapp3.1\Tugas3.2_faisalilhammuzaqi.exe
+D:\Tugas3.2_faisalilhammuzaqi\Tugas3.2_faisalilhammuzaqi\bin\Debug\netcoreapp3.1\Tugas3.2_faisalilhammuzaqi.deps.json
+D:\Tugas3.2_faisalilhammuzaqi\Tugas3.2_faisalilhammuzaqi\bin\Debug\netcoreapp3.1\Tugas3.2_faisalilhammuzaqi.runtimeconfig.json
+D:\Tugas3.2_faisalilhammuzaqi\Tugas3.2_faisalilhammuzaqi\bin\Debug\netcoreapp3.1\Tugas3.2_faisalilhammuzaqi.runtimeconfig.dev.json
+D:\Tugas3.2_faisalilhammuzaqi\Tugas3.2_faisalilhammuzaqi\bin\Debug\netcoreapp3.1\Tugas3.2_faisalilhammuzaqi.dll
+D:\Tugas3.2_faisalilhammuzaqi\Tugas3.2_faisalilhammuzaqi\bin\Debug\netcoreapp3.1\Tugas3.2_faisalilhammuzaqi.pdb
+D:\Tugas3.2_faisalilhammuzaqi\Tugas3.2_faisalilhammuzaqi\obj\Debug\netcoreapp3.1\Tugas3.2_faisalilhammuzaqi.csprojAssemblyReference.cache
+D:\Tugas3.2_faisalilhammuzaqi\Tugas3.2_faisalilhammuzaqi\obj\Debug\netcoreapp3.1\Tugas3._2_faisalilhammuzaqi.frmTugas.resources
+D:\Tugas3.2_faisalilhammuzaqi\Tugas3.2_faisalilhammuzaqi\obj\Debug\netcoreapp3.1\Tugas3.2_faisalilhammuzaqi.csproj.GenerateResource.cache
+D:\Tugas3.2_faisalilhammuzaqi\Tugas3.2_faisalilhammuzaqi\obj\Debug\netcoreapp3.1\Tugas3.2_faisalilhammuzaqi.AssemblyInfoInputs.cache
+D:\Tugas3.2_faisalilhammuzaqi\Tugas3.2_faisalilhammuzaqi\obj\Debug\netcoreapp3.1\Tugas3.2_faisalilhammuzaqi.AssemblyInfo.cs
+D:\Tugas3.2_faisalilhammuzaqi\Tugas3.2_faisalilhammuzaqi\obj\Debug\netcoreapp3.1\Tugas3.2_faisalilhammuzaqi.csproj.CoreCompileInputs.cache
+D:\Tugas3.2_faisalilhammuzaqi\Tugas3.2_faisalilhammuzaqi\obj\Debug\netcoreapp3.1\Tugas3.2_faisalilhammuzaqi.dll
+D:\Tugas3.2_faisalilhammuzaqi\Tugas3.2_faisalilhammuzaqi\obj\Debug\netcoreapp3.1\Tugas3.2_faisalilhammuzaqi.pdb
+D:\Tugas3.2_faisalilhammuzaqi\Tugas3.2_faisalilhammuzaqi\obj\Debug\netcoreapp3.1\Tugas3.2_faisalilhammuzaqi.genruntimeconfig.cache
